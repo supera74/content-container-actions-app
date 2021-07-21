@@ -6,9 +6,9 @@ inputs:
     required: true
     default: 'World'
   who-to-greet-again:  # id of input
-  description: 'Who to greet'
-  required: true
-  default: 'Aleksandro'
+    description: 'Who to greet'
+    required: true
+    default: 'Aleksandro'
 outputs:
   time: # id of output
     description: 'The time we greeted you'
